@@ -5,3 +5,5 @@ And it should be triggered by any change
 
 
 date: may 17 2022
+
+test scm polling triggers
